@@ -1,4 +1,4 @@
-package com.example.practical2_part_a;
+package com.example.practical2_HelloConstraint;
 
 import org.junit.Test;
 
